@@ -1,0 +1,38 @@
+{
+  "eventSchedule": [
+    {
+      "id": 1,
+      "title": "Event Schedule",
+      "dateDetails": {
+        "img": "../src/assets/calenderlogo.svg",
+        "date": "Saturday, November 11"
+      },
+      "timeDetails": {
+        "img": "../src/assets/timeicon.svg",
+        "time": "9:00 AM"
+      },
+      "location": {
+        "img": "../src/assets/locatnicon.svg",
+        "name": "City Conference Hall, Abuja"
+      },
+      "aboutDetails": {
+        "name": "About this Event",
+        "about": "Join us at the Renewed Conference, a transformative event designed to empower individuals ready to take bold steps in their career journeys. This conference brings together industry experts, inspirational speakers, and like-minded professionals for a day of learning, networking, and growth. Through insightful talks and interactive sessions, you'll gain the tools, insights, and motivation needed to carve a unique path and make a meaningful impact in your chosen field. Whether you're seeking guidance, clarity, or a renewed sense of purpose, this event will equip you to make a difference in your career path. Don't miss the chance to reimagine your future and unlock new possibilities!"
+      },
+      "perks": [
+        {
+          "title": "Career Coaching Sessions:",
+          "description": "Receive personalized guidance from experienced career coaches to help you navigate and advance your career path."
+        },
+        {
+          "title": "Exclusive Resource Materials:",
+          "description": "Take home valuable guides, templates, and toolkits to support your career development long after the conference ends."
+        },
+        {
+          "title": "Professional Headshots:",
+          "description": "Get a complimentary, high-quality headshot to enhance your online presence and professional profile."
+        }
+      ]
+    }
+  ]
+}

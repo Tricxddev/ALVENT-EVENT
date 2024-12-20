@@ -1,0 +1,70 @@
+{
+    "feacturedEvent": [
+        {
+          "id": 1,
+          "eventType": "Event Type",
+          "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+          "conference": "Renewed Conference",
+          "date": "11-05-2024",
+          "location": "City Conference Hall, Abuja",
+          "by": "Liberty Life Centre",
+          "initialAmount": "10.00",
+          "lastAmount": "30.00"
+        },
+        {
+          "id": 2,
+          "eventType": "Review",
+          "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+          "conference": "Review",
+          "date": "Review",
+          "location": "Review",
+          "by": "Review",
+          "initialAmount": "Review",
+          "lastAmount": "Review"
+        },
+        {
+          "id": 3,
+          "eventType": "Review",
+          "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+          "conference": "Review",
+          "date": "Review",
+          "location": "Review",
+          "by": "Review",
+          "initialAmount": "Review",
+          "lastAmount": "Review"
+        },
+        {
+          "id": 4,
+          "eventType": "Review",
+          "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+          "conference": "Review",
+          "date": "Review",
+          "location": "Review",
+          "by": "Review",
+          "initialAmount": "Review",
+          "lastAmount": "Review"
+        },
+        {
+          "id": 5,
+          "eventType": "Review",
+          "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+          "conference": "Review",
+          "date": "Review",
+          "location": "Review",
+          "by": "Review",
+          "initialAmount": "Review",
+          "lastAmount": "Review"
+        },
+        {
+          "id": 6,
+          "eventType": "Review",
+          "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+          "conference": "Review",
+          "date": "Review",
+          "location": "Review",
+          "by": "Review",
+          "initialAmount": "Review",
+          "lastAmount": "Review"
+        }
+      ]
+}

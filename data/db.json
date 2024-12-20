@@ -1,0 +1,375 @@
+{
+  "feacturedEvent": [
+    {
+      "id": 1,
+      "eventType": "Event Type",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+      "conference": "Renewed Conference",
+      "date": "11-05-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Liberty Life Centre",
+      "initialAmount": "10.00",
+      "lastAmount": "30.00"
+    },
+    {
+      "id": 2,
+      "eventType": "Review",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+      "conference": "Review",
+      "date": "Review",
+      "location": "Review",
+      "by": "Review",
+      "initialAmount": "Review",
+      "lastAmount": "Review"
+    },
+    {
+      "id": 3,
+      "eventType": "Review",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+      "conference": "Review",
+      "date": "Review",
+      "location": "Review",
+      "by": "Review",
+      "initialAmount": "Review",
+      "lastAmount": "Review"
+    }
+  ],
+
+  "similarEvent": [
+    {
+      "id": 1,
+      "eventType": "Event Type",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+      "conference": "Renewed Conference",
+      "date": "11-05-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Liberty Life Centre",
+      "initialAmount": "10.00",
+      "lastAmount": "30.00"
+    },
+    {
+      "id": 2,
+      "eventType": "Review",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+      "conference": "Review",
+      "date": "Review",
+      "location": "Review",
+      "by": "Review",
+      "initialAmount": "10.00",
+      "lastAmount": "30.00"
+    },
+    {
+      "id": 3,
+      "eventType": "Review",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Image_1_derhit.png",
+      "conference": "Review",
+      "date": "Review",
+      "location": "Review",
+      "by": "Review",
+      "initialAmount": "10.00",
+      "lastAmount": "30.00"
+    }
+  ],
+
+  "allEvent": [
+    {
+      "id": 1,
+      "eventType": "Conferences",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416156/Image_2_kjwik0.png",
+      "conference": "Renewed Conference",
+      "date": "11-05-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Liberty Life Centre",
+      "initialAmount": "5,000"
+    },
+    {
+      "id": 2,
+      "eventType": "Food & Drinks",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416156/Image_3_ksdxxa.png",
+      "conference": "Jollof Fiesta 2024",
+      "date": "16- 03-2024",
+      "location": "Tafawa Balewa Square, Lagos",
+      "by": "Taste Naija Foundation",
+      "initialAmount": "2,000"
+    },
+    {
+      "id": 3,
+      "eventType": "Concert & Music",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416155/Image_4_gsdcvj.png",
+      "conference": "African Beats Carnival",
+      "date": "15-12-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Naija Rhythm Collective",
+      "initialAmount": "5,000"
+    },
+    {
+      "id": 4,
+      "eventType": "Music",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416157/Image_5_yxgdwb.png",
+      "conference": "Art and Soul Fest",
+      "date": "20-11-2024",
+      "location": "Freedom Park, Lagos Island, Lagos",
+      "by": "Creative Minds Africa",
+      "initialAmount": "3,000"
+    },
+    {
+      "id": 5,
+      "eventType": "Fashion",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416159/Image_6_r1lk7m.png",
+      "conference": "Heritage Fashion Show",
+      "date": "11-05-2024",
+      "location": "Central Park, Abuja",
+      "by": "AfriStyle Collective",
+      "initialAmount": "10,000"
+    },
+    {
+      "id": 6,
+      "eventType": "Business",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416159/Image_7_yik7bj.png",
+      "conference": "Business Summit 2024",
+      "date": "11-05-2024",
+      "location": "Eko Hotels & Suites, Victoria Island, Lagos",
+      "by": "Business Alliance",
+      "initialAmount": "50,000"
+    },
+    {
+      "id": 7,
+      "eventType": "Event Type",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416157/Image_5_yxgdwb.png",
+      "conference": "Renewed Conference",
+      "date": "11-05-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Liberty Life Centre",
+      "initialAmount": "10.00",
+      "lastAmount": "30.00"
+    },
+    {
+      "id": 8,
+      "eventType": "Review",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416159/Image_6_r1lk7m.png",
+      "conference": "Review",
+      "date": "Review",
+      "location": "Review",
+      "by": "Review",
+      "initialAmount": "Review",
+      "lastAmount": "Review"
+    },
+    {
+      "id": 9,
+      "eventType": "Review",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416159/Image_7_yik7bj.png",
+      "conference": "Review",
+      "date": "Review",
+      "location": "Review",
+      "by": "Review",
+      "initialAmount": "Review",
+      "lastAmount": "Review"
+    },
+    {
+      "id": 10,
+      "eventType": "Event Type",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416157/Image_5_yxgdwb.png",
+      "conference": "Renewed Conference",
+      "date": "11-05-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Liberty Life Centre",
+      "initialAmount": "10.00",
+      "lastAmount": "30.00"
+    },
+    {
+      "id": 11,
+      "eventType": "Review",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416159/Image_6_r1lk7m.png",
+      "conference": "Review",
+      "date": "Review",
+      "location": "Review",
+      "by": "Review",
+      "initialAmount": "Review",
+      "lastAmount": "Review"
+    },
+    {
+      "id": 12,
+      "eventType": "Review",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731416159/Image_7_yik7bj.png",
+      "conference": "Review",
+      "date": "Review",
+      "location": "Review",
+      "by": "Review",
+      "initialAmount": "Review",
+      "lastAmount": "Review"
+    }
+  ],
+
+  "trendingEvent": [
+    {
+      "id": 1,
+      "eventType": "Event Type",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Event_Type_1_b0wicu.png",
+      "conference": "Renewed Conference",
+      "date": "11-05-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Liberty Life Centre",
+      "initialAmount": "10.00",
+      "lastAmount": "30.00"
+    },
+    {
+      "id": 2,
+      "eventType": "Event Type",
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731005210/Event_Type_1_b0wicu.png",
+      "conference": "Renewed Conference",
+      "date": "11-05-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Liberty Life Centre",
+      "initialAmount": "10.00",
+      "lastAmount": "30.00"
+    }
+  ],
+
+  "totalRevenue": [
+    {
+      "id": 1,
+      "amount": "0",
+      "percentage": "0"
+    }
+  ],
+
+  "ticketsSold": [
+    {
+      "id": 1,
+      "quantity": "0",
+      "percentage": "0"
+    }
+  ],
+
+  "engagementRate": [
+    {
+      "id": 1,
+      "Rate": "0",
+      "percentage": "0"
+    }
+  ],
+  "upcomingEvent": [
+    {
+      "id": 1,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979103/Image_8_n6l5l5.png",
+      "day": "8",
+      "month": "JAN",
+      "date": "08-01-2025",
+      "location": "City Conference Hall, Abuja",
+      "by": "Renewed Conference"
+    },
+
+    {
+      "id": 2,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979102/Image_9_hgr71c.png",
+      "day": "12",
+      "month": "DEC",
+      "date": "12-12-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Vibez D\" Fest"
+    },
+    {
+      "id": 3,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979102/Image_10_ldh8mh.png",
+      "day": "8",
+      "month": "JAN",
+      "date": "08-01-2025",
+      "location": "City Conference Hall, Abuja",
+      "by": "Renewed Conference"
+    },
+    {
+      "id": 4,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979102/Image_11_drl4t8.png",
+      "day": "8",
+      "month": "JAN",
+      "date": "08-01-2025",
+      "location": "City Conference Hall, Abuja",
+      "by": "Renewed Conference"
+    }
+  ],
+  "profilData": [
+    {
+      "id": 1,
+      "profilePic": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1732165226/Icon_Pack_bj0bcg.png",
+      "userName": "Fred"
+    }
+  ],
+  "existingEvent": [
+    {
+      "id": 1,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979103/Image_8_n6l5l5.png",
+      "day": "8",
+      "month": "JAN",
+      "date": "08-01-2025",
+      "location": "City Conference Hall, Abuja",
+      "by": "Renewed Conference"
+    },
+
+    {
+      "id": 2,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979102/Image_9_hgr71c.png",
+      "day": "12",
+      "month": "DEC",
+      "date": "12-12-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Vibez D\" Fest"
+    },
+    {
+      "id": 3,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979102/Image_10_ldh8mh.png",
+      "day": "8",
+      "month": "JAN",
+      "date": "08-01-2025",
+      "location": "City Conference Hall, Abuja",
+      "by": "Renewed Conference"
+    },
+    {
+      "id": 4,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979102/Image_11_drl4t8.png",
+      "day": "8",
+      "month": "JAN",
+      "date": "08-01-2025",
+      "location": "City Conference Hall, Abuja",
+      "by": "Renewed Conference"
+    }
+  ],
+  "myEvent": [
+    {
+      "id": 1,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979102/Image_9_hgr71c.png",
+      "day": "12",
+      "month": "DEC",
+      "date": "12-12-2024",
+      "location": "City Conference Hall, Abuja",
+      "by": "Vibez D\" Fest"
+    },
+
+    {
+      "id": 2,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979103/Image_8_n6l5l5.png",
+      "day": "8",
+      "month": "JAN",
+      "date": "08-01-2025",
+      "location": "City Conference Hall, Abuja",
+      "by": "Renewed Conference"
+    },
+    {
+      "id": 3,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979102/Image_11_drl4t8.png",
+      "day": "8",
+      "month": "JAN",
+      "date": "08-01-2025",
+      "location": "City Conference Hall, Abuja",
+      "by": "Renewed Conference"
+    },
+    {
+      "id": 4,
+      "bg": "https://res.cloudinary.com/dqtyrjpeh/image/upload/v1731979102/Image_10_ldh8mh.png",
+      "day": "8",
+      "month": "JAN",
+      "date": "08-01-2025",
+      "location": "City Conference Hall, Abuja",
+      "by": "Renewed Conference"
+    }
+  ]
+}
